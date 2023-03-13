@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merve-ozturk&label=Profile%20views&color=0e75b6&style=flat" alt="merve-ozturk" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Java**
 
 - 📝 I regularly write articles on [https://medium.com/@merve-ozturk](https://medium.com/@merve-ozturk)
 
